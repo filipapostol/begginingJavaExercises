@@ -6,7 +6,7 @@ You can use the Main.java class to run and test your outputs;
 public class Exercise1 {
 
     public boolean isATriangle(int a, int b, int c) {
-        return false;
+        return a + b > c && b + c > a && c + a > b;
     }
 
 }
