@@ -6,3 +6,6 @@ skill in the Java language. Follow the instructions in each of the Exercise clas
 to observe the exercises outcome.
 
 To submit your responses please fork and create a pull request.
+
+When running this project you require to create an output directory and add it to the path otherwise your
+ide will complain.
