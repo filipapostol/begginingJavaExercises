@@ -1,4 +1,3 @@
-package java;
 /*
 Your task is to implement an algorithm that checks if 3 given sides can form a triangle.
 documentation: http://www.wikihow.com/Determine-if-Three-Side-Lengths-Are-a-Triangle
