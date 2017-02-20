@@ -15,9 +15,10 @@ public class Main {
             System.out.print(theArray[i] + " ");
         }
 
-
+        System.out.println();
         //TEST Exercise 3 - Numbers from 10 to 1
         Exercise3 exercise3 = new Exercise3();
+        System.out.println( exercise3.from10to0());
     }
 
 
