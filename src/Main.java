@@ -9,6 +9,11 @@ public class Main {
 
         //TEST Exercise 2 - Numbers from 1 to 10
         Exercise2 exercise2 = new Exercise2();
+        int[] theArray = exercise2.countTo10();
+        //iterating an array
+        for (int i = 0; i < theArray.length; i++) {
+            System.out.print(theArray[i] + " ");
+        }
 
 
         //TEST Exercise 3 - Numbers from 10 to 1
